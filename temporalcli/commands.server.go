@@ -1,3 +1,5 @@
+//go:build devserver
+
 package temporalcli
 
 import (
